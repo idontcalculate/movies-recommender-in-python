@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "movies-recommender-in-python",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
